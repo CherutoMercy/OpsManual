@@ -4,11 +4,11 @@ I'm looking forward to getting to know you! This document is not intended to rep
 
 ## TMP Work Preferences according to [TMP framework](https://www.teammanagementsystems.com/tms-profiles/team-managment-profile-tmp/)
 
-Major Role: 
- > Assessor-Developer
+## Major Role: 
+ * Assessor-Developer
 Related Roles: 
- > Thruster-Organizer
- > Reporter-Adviser
+ * Thruster-Organizer
+ * Reporter-Adviser
 
 As an Assessor-Developer I thrive in an environment where I can be creative, I love challenges that require me to analyze situations or data and come up with ideas to solve them. I also recognize that I work with intelligent and talented people, and while I love to share my knowledge, I also use each opportunity to learn from others and collaborate with them.
 
@@ -25,8 +25,8 @@ In my previous role as a Program Manager at Andela I led the team to manage the 
 I will block 30 minutes with you weekly for our 1:1’s, in these sessions we can have a casual check-in,  talk about your weekly wins/challenges, brainstorm ideas, and talk about growth (I can be a great accountability partner). We will start a 1:1 agenda document for documentation and meeting planning. 
 
 Here are some interesting articles about 1:1;
- > [7 Essential Tips For Effective 1 On 1 Meetings](https://getlighthouse.com/blog/effective-1-on-1-meetings/) 
- > [Awkward 1:1.](https://medium.com/@mrabkin/the-art-of-the-awkward-1-1-f4e1dcbd1c5c)
+ * [7 Essential Tips For Effective 1 On 1 Meetings](https://getlighthouse.com/blog/effective-1-on-1-meetings/) 
+ * [Awkward 1:1.](https://medium.com/@mrabkin/the-art-of-the-awkward-1-1-f4e1dcbd1c5c)
 
 ### Performance
 
@@ -60,12 +60,12 @@ Here are some things about me if you ever want to strike up a casual conversatio
 
 * I love traveling (So far traveled to Lagos, Dar es Salaam, Kigali, California, Virginia, Kentucky, and Tennessee)
 
-<img src="/img/Nash.jpeg" alt="Atlas" width="300px">
+<img src="/img/Nash.jpg" alt="Atlas" width="300px">
 
 * I love the outdoors, nature walks, hiking & running.
 
-<img src="/img/Nhills.jpeg" alt="Atlas" width="300px">
+<img src="/img/Nhills.jpg" alt="Atlas" width="300px">
 
 * Photo of me in my natural habitat.
 
-<img src="/img/Habitat.jpeg" alt="Atlas" width="300px">
+<img src="/img/Habitat.jpg" alt="Atlas" width="300px">
