@@ -6,7 +6,7 @@ I'm looking forward to getting to know you! This document is not intended to rep
 
 ## Major Role: 
  * Assessor-Developer
-Related Roles: 
+> Related Roles: 
  * Thruster-Organizer
  * Reporter-Adviser
 
@@ -60,11 +60,11 @@ Here are some things about me if you ever want to strike up a casual conversatio
 
 * I love traveling (So far traveled to Lagos, Dar es Salaam, Kigali, California, Virginia, Kentucky, and Tennessee)
 
-<img src="/img/Nash.jpg" alt="Atlas" width="300px">
+<img src="/img/Nash.jpg" alt="Atlas">
 
 * I love the outdoors, nature walks, hiking & running.
 
-<img src="/img/Nhills.jpg" alt="Atlas" width="300px">
+<img src="/img/Nhills.jpg" alt="Atlas">
 
 * Photo of me in my natural habitat.
 
