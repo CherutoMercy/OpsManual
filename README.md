@@ -64,7 +64,7 @@ Here are some things about me if you ever want to strike up a casual conversatio
 
 * I love the outdoors, nature walks, hiking & running.
 
-<img src="/img/Nhills.jpg" alt="Atlas" height="290px" width="390px">
+<img src="/img/Nhills.jpg" alt="Atlas" height="420px" width="320px">
 
 * Photo of me in my natural habitat.
 
