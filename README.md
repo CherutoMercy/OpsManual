@@ -60,11 +60,11 @@ Here are some things about me if you ever want to strike up a casual conversatio
 
 * I love traveling (So far traveled to Lagos, Dar es Salaam, Kigali, California, Virginia, Kentucky, and Tennessee)
 
-<img src="/img/Nash.jpg" alt="Atlas" width="500px">
+<img src="/img/Nash.jpg" alt="Atlas" height="400px" width="500px">
 
 * I love the outdoors, nature walks, hiking & running.
 
-<img src="/img/Nhills.jpg" alt="Atlas" width="400px">
+<img src="/img/Nhills.jpg" alt="Atlas" height="300px" width="400px">
 
 * Photo of me in my natural habitat.
 
